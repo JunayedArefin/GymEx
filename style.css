@@ -1,0 +1,102 @@
+*{
+   margin: 0;
+   padding: 0;
+
+}
+.header{
+   height: 620px;
+   background-image: url(/Source/Gym.jpg);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   padding-left: 110px;
+}
+.logo{
+   color: white;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 30px;
+   font-weight: 500px;
+}
+.navbar{
+   color: white;
+   text-align: center;
+   align-items: center;
+}
+ul{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   display: flex;
+   margin-left: 600px;
+   padding-top: 20px;
+}
+ul li{
+   display: flex;
+   margin-left: 50px;
+   font-size: 17px;
+}
+.nav{
+   display: flex;
+   padding-top: 40px;
+}
+
+.details{
+   color: white;
+   width: 45%;
+}
+.details h1{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 57px;
+}
+.details p{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 16px;
+   font-weight: 400px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+.details button{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 14px;
+   font-weight: 400px;
+   margin-top: 10px;
+   margin-bottom: 20px;
+   color: rgb(255, 255, 255);
+   background-color: transparent;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 12px;
+   padding-bottom: 12px;
+   border-radius: 7px;
+   border: 2px;
+   border-style: solid;
+   border-color: white;
+}
+
+.card{
+   display: flex;
+   margin-left: 60px;
+}
+.carddesign{
+   background-color:transparent;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-top: 90px;
+   padding-bottom: 90px;
+   margin-right: 30px;
+   margin-bottom: 30px;
+   border-radius: 10px;
+   text-align: center;
+   border: 2px;
+   border-style: solid;
+   border-color: white;
+}
+.section{
+   display: flex;
+   margin-top: 60px;
+   align-items: center;
+}
+
+h3{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: white;
+}
