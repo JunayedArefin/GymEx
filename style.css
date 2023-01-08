@@ -5,7 +5,7 @@
 }
 .header{
    height: 620px;
-   background-image: url(/Source/Gym.jpg);
+   background-image: url(./Source/Gym.jpg);
    background-position: center;
    background-size: cover;
    background-repeat: no-repeat;
